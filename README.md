@@ -356,5 +356,5 @@ public class XMLMenuActivity extends AppCompatActivity {
 
 4、
 
-<image wide="300" height="350" src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_3_4a.jpg">
+<image wide="300" height="350" src="https://github.com/jinrongrong815/img_folder/blob/master/lab_3_4a.jpg">
 
